@@ -1,6 +1,6 @@
 //Nicholas Nabozny 
 //990302
-public class Hello
+public class Assignment0
 {
   public static void main(String[] args)
 {
